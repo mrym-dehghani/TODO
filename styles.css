@@ -1,0 +1,20 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.buttonclass{
+    margin-right: .2rem;
+    background-color: #4b224dc9;
+    color: white;
+    border: 0rem;
+    border-radius: .5rem;
+
+}
+
+.title-input {
+    background-color: transparent;
+    border: none;
+    font-size: inherit;
+    outline: none;
+    color: #a76aa8c9;
+} 
